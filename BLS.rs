@@ -32,3 +32,6 @@ fn main() {
         println!("Invalid signature.");
     }
 }
+
+// This code generates a BLS private key and public key, signs a message using the private key, 
+// and then verifies the signature using the public key.
